@@ -750,3 +750,40 @@
         /* Ẩn hình ảnh khi màn hình nhỏ hơn 1200px */
     }
 }
+
+.footer .footer-col {
+    font-size: .875rem
+}
+
+
+.footer .footer-col .logo-icon {
+    max-width: 199px;
+    height: auto
+}
+
+.footer .footer-col .col-heading {
+    font-size: 1rem;
+    margin-bottom: .5rem;
+    color: #5d6778
+}
+
+.footer .footer-col a {
+    color: #5d6778
+}
+
+.footer .footer-col li {
+    margin-bottom: .5rem
+}
+
+.footer-bottom {
+    font-size: .75rem;
+    color: #9fa7b5
+}
+
+.footer-bottom a {
+    color: #9fa7b5
+}
+
+.footer-bottom a:hover {
+    color: #5d6778
+}
